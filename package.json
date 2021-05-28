@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/recaptchaToken/Katchin/issues"
   },
-  "homepage": "https://github.com/recaptchaToken/Katchin#readme"
+  "homepage": "https://github.com/recaptchaToken/Katchin#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
